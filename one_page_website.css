@@ -1,0 +1,12 @@
+h3 {
+    font-family: "Bodoni MT Black";
+    font-size: 2em;
+}
+
+form input [type="text"] {
+	width: 100%;
+	margin: 8px 0;
+	border: 2px solid red;
+	border-radius: 4px;
+}
+
